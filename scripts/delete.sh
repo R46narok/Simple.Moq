@@ -1,0 +1,1 @@
+curl --location --request DELETE 'http://localhost:5000/customer/$1'
