@@ -1,10 +1,15 @@
 using Microsoft.EntityFrameworkCore;
+using Serilog;
 using SimpleMoq.Api.Data.Persistence;
 using SimpleMoq.Api.Data.Repositories;
 using SimpleMoq.Api.Services;
 
 var builder = WebApplication.CreateBuilder(args);
+Log.Logger = new LoggerConfiguration()
+    .ReadFrom.Configuration(builder.Configuration)
+    .CreateLogger();
 
+builder.Host.UseSerilog();
 // Add services to the container.
 
 builder.Services.AddDbContext<SimpleMoqDbContext>(opt => opt.UseInMemoryDatabase("moq"));

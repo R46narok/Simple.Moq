@@ -28,3 +28,13 @@ D:\Dev\Projects\SimpleMoq\SimpleMoq.Api\obj\Debug\net6.0\ref\SimpleMoq.Api.dll
 D:\Dev\Projects\SimpleMoq\SimpleMoq.Api\obj\Debug\net6.0\SimpleMoq.Api.pdb
 D:\Dev\Projects\SimpleMoq\SimpleMoq.Api\obj\Debug\net6.0\SimpleMoq.Api.genruntimeconfig.cache
 D:\Dev\Projects\SimpleMoq\SimpleMoq.Api\bin\Debug\net6.0\ref\SimpleMoq.Api.dll
+D:\Dev\Projects\SimpleMoq\SimpleMoq.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dev\Projects\SimpleMoq\SimpleMoq.Api\bin\Debug\net6.0\Serilog.dll
+D:\Dev\Projects\SimpleMoq\SimpleMoq.Api\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\Dev\Projects\SimpleMoq\SimpleMoq.Api\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\Dev\Projects\SimpleMoq\SimpleMoq.Api\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\Dev\Projects\SimpleMoq\SimpleMoq.Api\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\Dev\Projects\SimpleMoq\SimpleMoq.Api\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\Dev\Projects\SimpleMoq\SimpleMoq.Api\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\Dev\Projects\SimpleMoq\SimpleMoq.Api\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\Dev\Projects\SimpleMoq\SimpleMoq.Api\bin\Debug\net6.0\Serilog.Sinks.File.dll
